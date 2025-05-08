@@ -1,0 +1,38 @@
+# Node.js / React (Vite)
+node_modules/
+dist/
+.env
+.env.local
+.vite/
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Python / Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+instance/
+.env
+venv/
+env/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# System
+Thumbs.db
